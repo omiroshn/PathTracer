@@ -1,0 +1,3 @@
+newmtl book
+	Kd 1 1 1
+	map_Kd resources/models/aelita/aelita.png

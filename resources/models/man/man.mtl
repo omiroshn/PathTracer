@@ -1,0 +1,3 @@
+newmtl initialShadingGroup
+	Kd 0.50 0.50 0.50
+	map_Kd resources/models/man/man.jpeg
