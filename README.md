@@ -26,6 +26,7 @@ WASD - moving
 M - rotating camera with mouse
 ```
 
+<img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/julia.jpg" width="100%" />
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/1.png" width="100%" />
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/2.png" width="100%" />
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/3.png" width="100%" />
