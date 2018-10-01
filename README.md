@@ -33,6 +33,7 @@ M - rotating camera with mouse
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/4.png" width="100%" />
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/5.png" width="100%" />
 <img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/6.png" width="100%" />
+<img align="center"  src="https://github.com/omiroshn/PathTracer/blob/master/screenshots/rt.jpg" width="100%" />
 
 #                        **  Message to 42 students  **
 You are free to copy, modify and share under your name my exercises. But you
